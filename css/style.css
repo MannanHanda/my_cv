@@ -1,0 +1,10 @@
+body{
+    background-image:linear-gradient(to right,#BAD7DF,#FFE2E2);
+  }
+hr{
+  border-style:none;
+  border-top-style:dotted;
+  border-width:4px;
+  width:2%;
+  color:grey;
+}
